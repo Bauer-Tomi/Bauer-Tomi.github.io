@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tom",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Little Jimmy",
+      "email": "littlejimmy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Sándor István",
+      "email": "sandoristvan@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Kiss Pista",
+      "email": "kispista@gmail.com"
+    },
+    {
+      "name": "Bauer Gabi",
+      "email": "bauergabi@gmail.com",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
